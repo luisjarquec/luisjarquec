@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 <!--- 💞️ I’m looking to collaborate on -->
 - 📫 How to reach me: luis.jarquec@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Trying to be a semi-professional padel athlete
 
 <!---
